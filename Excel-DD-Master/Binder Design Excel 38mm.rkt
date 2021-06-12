@@ -1,0 +1,1331 @@
+<RockSimDocument>
+  <FileVersion>4</FileVersion>
+  <DesignInformation>
+    <RocketDesign>
+      <CalculateCD>1</CalculateCD>
+      <ProCalculateCD>1</ProCalculateCD>
+      <ProCalculateCN>1</ProCalculateCN>
+      <FixedCd>0.75</FixedCd>
+      <FixedCd2>0.8</FixedCd2>
+      <FixedCd3>0.81</FixedCd3>
+      <FixedCd2Alone>0.95</FixedCd2Alone>
+      <FixedCd3Alone>0.95</FixedCd3Alone>
+      <StageCount>1</StageCount>
+      <Stage3Mass>0.</Stage3Mass>
+      <Stage2Mass>0.</Stage2Mass>
+      <Stage1Mass>0.</Stage1Mass>
+      <Stage321CG>0.</Stage321CG>
+      <Stage32CG>0.</Stage32CG>
+      <Stage3CG>0.</Stage3CG>
+      <Stage2CGAlone>0.</Stage2CGAlone>
+      <Stage1CGAlone>0.</Stage1CGAlone>
+      <CPCalcFlags>4</CPCalcFlags>
+      <LaunchGuideLength>914.4</LaunchGuideLength>
+      <UseKnownMass>0</UseKnownMass>
+      <DefaultFinish>1</DefaultFinish>
+      <FinishMedium>0</FinishMedium>
+      <FinishCoatCount>2</FinishCoatCount>
+      <GlueType>0</GlueType>
+      <CPSimFlags>1</CPSimFlags>
+      <LastSerialNumber>120</LastSerialNumber>
+      <DisplayFlags>1</DisplayFlags>
+      <MetricsFlags>0</MetricsFlags>
+      <BarromanXN>0,1003.87,0,0</BarromanXN>
+      <BarrowmanCNa>0,10.7541,0,0</BarrowmanCNa>
+      <RockSimXN>0,1061.14,0,0</RockSimXN>
+      <RockSimCNa>0,15.8099,0,0</RockSimCNa>
+      <RockSimCNa90>0,0,0,0</RockSimCNa90>
+      <RockSimXN90>0,0,0,0</RockSimXN90>
+      <ViewType>0</ViewType>
+      <ViewStageCount>1</ViewStageCount>
+      <ViewTypeEdit>0</ViewTypeEdit>
+      <ViewStageCountEdit>1</ViewStageCountEdit>
+      <ZoomFactor>0.</ZoomFactor>
+      <ZoomFactorEdit>0.</ZoomFactorEdit>
+      <ScrollPosX>0</ScrollPosX>
+      <ScrollPosY>0</ScrollPosY>
+      <ScrollPosXEdit>0</ScrollPosXEdit>
+      <ScrollPosYEdit>0</ScrollPosYEdit>
+      <ThreeDFlags>0</ThreeDFlags>
+      <ThreeDFlagsEdit>0</ThreeDFlagsEdit>
+      <UseModelSprite>0</UseModelSprite>
+      <StaticMarginRef>0</StaticMarginRef>
+      <UserRefDiameter>0.</UserRefDiameter>
+      <SideMarkerHeight>10.</SideMarkerHeight>
+      <SideDimensionHeight>10.</SideDimensionHeight>
+      <BaseMarkerHeight>10.</BaseMarkerHeight>
+      <BaseDimensionHeight>10.</BaseDimensionHeight>
+      <ShowGlideCP>0</ShowGlideCP>
+      <ShowGridTypeSide>0</ShowGridTypeSide>
+      <ShowGridTypeBase>0</ShowGridTypeBase>
+      <GridSpacing>10.</GridSpacing>
+      <GridOpacity>0.15</GridOpacity>
+      <GridColor>black</GridColor>
+      <MaxDiaWithFins>352.988</MaxDiaWithFins>
+      <MaxDiaWithoutFins>101.6</MaxDiaWithoutFins>
+      <MaxLenWithFins>1292.22</MaxLenWithFins>
+      <MaxLenWithoutFins>1292.22</MaxLenWithoutFins>
+      <MinXExtent>0.</MinXExtent>
+      <MaxXExtent>1292.22</MaxXExtent>
+      <CalculatedMaxStageDia>0,101.6,0,0</CalculatedMaxStageDia>
+      <CalculatedStageLen>0,1292.22,0,0</CalculatedStageLen>
+      <Cd3>
+        <PolyData  useXYOnly="0" useSmoothCurveEvaluation="0" count="0">
+        <X-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</X-data>
+        <A-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</A-data>
+        <B-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</B-data>
+        <C-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</C-data>
+      </PolyData>
+    </Cd3>
+    <Cd32>
+      <PolyData  useXYOnly="0" useSmoothCurveEvaluation="0" count="0">
+      <X-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</X-data>
+      <A-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</A-data>
+      <B-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</B-data>
+      <C-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</C-data>
+    </PolyData>
+  </Cd32>
+  <Cd321>
+    <PolyData  useXYOnly="0" useSmoothCurveEvaluation="0" count="0">
+    <X-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</X-data>
+    <A-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</A-data>
+    <B-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</B-data>
+    <C-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</C-data>
+  </PolyData>
+</Cd321>
+<Cb3>
+  <PolyData  useXYOnly="0" useSmoothCurveEvaluation="0" count="0">
+  <X-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</X-data>
+  <A-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</A-data>
+  <B-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</B-data>
+  <C-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</C-data>
+</PolyData>
+</Cb3>
+<Cb32>
+<PolyData  useXYOnly="0" useSmoothCurveEvaluation="0" count="0">
+<X-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</X-data>
+<A-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</A-data>
+<B-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</B-data>
+<C-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</C-data>
+</PolyData>
+</Cb32>
+<Cb321>
+<PolyData  useXYOnly="0" useSmoothCurveEvaluation="0" count="0">
+<X-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</X-data>
+<A-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</A-data>
+<B-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</B-data>
+<C-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</C-data>
+</PolyData>
+</Cb321>
+<CNa3>
+<PolyData  useXYOnly="0" useSmoothCurveEvaluation="0" count="0">
+<X-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</X-data>
+<A-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</A-data>
+<B-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</B-data>
+<C-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</C-data>
+</PolyData>
+</CNa3>
+<CNa32>
+<PolyData  useXYOnly="0" useSmoothCurveEvaluation="0" count="0">
+<X-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</X-data>
+<A-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</A-data>
+<B-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</B-data>
+<C-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</C-data>
+</PolyData>
+</CNa32>
+<CNa321>
+<PolyData  useXYOnly="0" useSmoothCurveEvaluation="0" count="0">
+<X-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</X-data>
+<A-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</A-data>
+<B-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</B-data>
+<C-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</C-data>
+</PolyData>
+</CNa321>
+<CP3>
+<PolyData  useXYOnly="0" useSmoothCurveEvaluation="0" count="0">
+<X-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</X-data>
+<A-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</A-data>
+<B-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</B-data>
+<C-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</C-data>
+</PolyData>
+</CP3>
+<CP32>
+<PolyData  useXYOnly="0" useSmoothCurveEvaluation="0" count="0">
+<X-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</X-data>
+<A-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</A-data>
+<B-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</B-data>
+<C-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</C-data>
+</PolyData>
+</CP32>
+<CP321>
+<PolyData  useXYOnly="0" useSmoothCurveEvaluation="0" count="0">
+<X-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</X-data>
+<A-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</A-data>
+<B-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</B-data>
+<C-data>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</C-data>
+</PolyData>
+</CP321>
+<SimulationEventList>
+<SimulationEvent>
+<PartSerialNo>30</PartSerialNo>
+<Type>1</Type>
+<DeployAltitude>0.</DeployAltitude>
+<DeplyTime>0.</DeplyTime>
+<HasDeployed>0</HasDeployed>
+<DeployedAt_Altitude>0.</DeployedAt_Altitude>
+<DeployedAt_Velocity>0.</DeployedAt_Velocity>
+<DeployedAt_Range>0.</DeployedAt_Range>
+<DeployedAt_Time>0.</DeployedAt_Time>
+<DeviceID>-1</DeviceID>
+<TestType>28,28,28</TestType>
+<TestCondition>0,0,0</TestCondition>
+<TestValueAltitude>0,0,0</TestValueAltitude>
+<TestValueDegrees>0,0,0</TestValueDegrees>
+<TestValuePressure>0,0,0</TestValuePressure>
+<TestValueMach>0,0,0</TestValueMach>
+<TestValueTime>0,0,0</TestValueTime>
+<TestValueQ>0,0,0</TestValueQ>
+</SimulationEvent>
+</SimulationEventList>
+<Stage3Parts>
+<NoseCone>
+<PartMfg>Binder Design</PartMfg>
+<KnownMass>283.495</KnownMass>
+<Density>1049.21</Density>
+<Material>Polystyrene PS</Material>
+<Name>Nose cone</Name>
+<KnownCG>228.6</KnownCG>
+<UseKnownCG>1</UseKnownCG>
+<Xb>0.</Xb>
+<CalcMass>388.484</CalcMass>
+<CalcCG>319.329</CalcCG>
+<WettedSurface>0.0913035</WettedSurface>
+<PaintedSurface>0.0913035</PaintedSurface>
+<GlueJointLength>0.</GlueJointLength>
+<DensityType>0</DensityType>
+<PartNo>PNC-3.90</PartNo>
+<PartDesc>Plastic nose cone</PartDesc>
+<RadialLoc>0.</RadialLoc>
+<RadialAngle>0.</RadialAngle>
+<Texture>file=()|position=(0,0,0)|origin=(0.5,0.5,0.5)|scale=(1,1,1)|repeat=(1)|interpolate=(0)|flipr(0)|flips(0)|flipt=(0)|preventseam=(1)</Texture>
+<Opacity>1.</Opacity>
+<Specular>0.</Specular>
+<SpecularPower>1.</SpecularPower>
+<Ambient>0.</Ambient>
+<Diffuse>1.</Diffuse>
+<AbientColor>rgb(0,0,250)</AbientColor>
+<DiffuseColor>rgb(0,0,250)</DiffuseColor>
+<SpecularColor>rgb(255,255,255)</SpecularColor>
+<UseSingleColor>1</UseSingleColor>
+<SerialNo>1</SerialNo>
+<DisplayFlags>0</DisplayFlags>
+<MetricsFlags>0</MetricsFlags>
+<LocationMode>0</LocationMode>
+<Color>rgb(0,0,250)</Color>
+<BarrowmanCNa>2.</BarrowmanCNa>
+<BarrowmanXN>0.197621</BarrowmanXN>
+<RockSimCNa>2.</RockSimCNa>
+<RockSimXN>0.197621</RockSimXN>
+<SimpleColorModel>1</SimpleColorModel>
+<ProduceTemplate>0</ProduceTemplate>
+<TemplateUnits>8</TemplateUnits>
+<Removed>0</Removed>
+<Station>0.</Station>
+<Len>425.45</Len>
+<BaseDia>101.6</BaseDia>
+<FinishCode>1</FinishCode>
+<ShapeCode>1</ShapeCode>
+<ConstructionType>1</ConstructionType>
+<ShoulderLen>76.2</ShoulderLen>
+<WallThickness>3.175</WallThickness>
+<ShapeParameter>4.</ShapeParameter>
+<ShoulderOD>98.425</ShoulderOD>
+<BaseExtensionLen>0.</BaseExtensionLen>
+<CoreDia>0.</CoreDia>
+<CoreLen>0.</CoreLen>
+<AttachedParts>
+</AttachedParts>
+</NoseCone>
+<BodyTube>
+<PartMfg>Binder Design</PartMfg>
+<KnownMass>0.</KnownMass>
+<Density>1121.29</Density>
+<Material>Paper</Material>
+<Name>Body tube</Name>
+<KnownCG>0.</KnownCG>
+<UseKnownCG>0</UseKnownCG>
+<Xb>0.</Xb>
+<CalcMass>387.628</CalcMass>
+<CalcCG>431.8</CalcCG>
+<WettedSurface>0.275649</WettedSurface>
+<PaintedSurface>0.275649</PaintedSurface>
+<GlueJointLength>0.</GlueJointLength>
+<DensityType>0</DensityType>
+<PartNo>AFT-3.9</PartNo>
+<PartDesc><![CDATA[3.9" Airframe Tube]]></PartDesc>
+<RadialLoc>0.</RadialLoc>
+<RadialAngle>0.</RadialAngle>
+<Texture>file=()|position=(0,0,0)|origin=(0.5,0.5,0.5)|scale=(1,1,1)|repeat=(1)|interpolate=(0)|flipr(0)|flips(0)|flipt=(0)|preventseam=(1)</Texture>
+<Opacity>1.</Opacity>
+<Specular>0.</Specular>
+<SpecularPower>1.</SpecularPower>
+<Ambient>0.</Ambient>
+<Diffuse>1.</Diffuse>
+<AbientColor>rgb(0,0,250)</AbientColor>
+<DiffuseColor>rgb(0,0,250)</DiffuseColor>
+<SpecularColor>rgb(255,255,255)</SpecularColor>
+<UseSingleColor>1</UseSingleColor>
+<SerialNo>3</SerialNo>
+<DisplayFlags>1</DisplayFlags>
+<MetricsFlags>0</MetricsFlags>
+<LocationMode>0</LocationMode>
+<Color>rgb(0,0,250)</Color>
+<BarrowmanCNa>0.</BarrowmanCNa>
+<BarrowmanXN>0.</BarrowmanXN>
+<RockSimCNa>0.</RockSimCNa>
+<RockSimXN>0.</RockSimXN>
+<SimpleColorModel>1</SimpleColorModel>
+<ProduceTemplate>0</ProduceTemplate>
+<TemplateUnits>8</TemplateUnits>
+<Removed>0</Removed>
+<Station>425.45</Station>
+<OD>101.6</OD>
+<ID>99.06</ID>
+<Len>863.6</Len>
+<FinishCode>1</FinishCode>
+<IsMotorMount>0</IsMotorMount>
+<MotorDia>0.</MotorDia>
+<EngineOverhang>0.</EngineOverhang>
+<FrontExtension>0.</FrontExtension>
+<RearExtension>0.</RearExtension>
+<IsInsideTube>0</IsInsideTube>
+<isStrapOnTube>0</isStrapOnTube>
+<AttachedParts>
+<CustomFinSet>
+<PartMfg>Custom</PartMfg>
+<KnownMass>0.</KnownMass>
+<Density>724.996</Density>
+<Material>Aircraft plywood (Birch)</Material>
+<Name>Custom Fin set</Name>
+<KnownCG>0.</KnownCG>
+<UseKnownCG>0</UseKnownCG>
+<Xb>6.35</Xb>
+<CalcMass>173.941</CalcMass>
+<CalcCG>70.5971</CalcCG>
+<WettedSurface>0.0251033</WettedSurface>
+<PaintedSurface>0.0753099</PaintedSurface>
+<GlueJointLength>0.</GlueJointLength>
+<DensityType>0</DensityType>
+<RadialLoc>0.</RadialLoc>
+<RadialAngle>0.</RadialAngle>
+<Texture>file=()|position=(0,0,0)|origin=(0.5,0.5,0.5)|scale=(1,1,1)|repeat=(1)|interpolate=(0)|flipr(0)|flips(0)|flipt=(0)|preventseam=(1)</Texture>
+<Opacity>1.</Opacity>
+<Specular>0.</Specular>
+<SpecularPower>1.</SpecularPower>
+<Ambient>0.</Ambient>
+<Diffuse>1.</Diffuse>
+<AbientColor>rgb(0,0,250)</AbientColor>
+<DiffuseColor>rgb(0,0,250)</DiffuseColor>
+<SpecularColor>rgb(255,255,255)</SpecularColor>
+<UseSingleColor>1</UseSingleColor>
+<SerialNo>9</SerialNo>
+<DisplayFlags>8</DisplayFlags>
+<MetricsFlags>0</MetricsFlags>
+<LocationMode>2</LocationMode>
+<Color>rgb(0,0,250)</Color>
+<BarrowmanCNa>8.75412</BarrowmanCNa>
+<BarrowmanXN>1.18807</BarrowmanXN>
+<RockSimCNa>13.8099</RockSimCNa>
+<RockSimXN>1.1862</RockSimXN>
+<SimpleColorModel>1</SimpleColorModel>
+<ProduceTemplate>0</ProduceTemplate>
+<TemplateUnits>8</TemplateUnits>
+<Removed>0</Removed>
+<Station>1142.26</Station>
+<FinCount>3</FinCount>
+<RootChord>140.44</RootChord>
+<TipChord>42.14</TipChord>
+<SemiSpan>125.69</SemiSpan>
+<MidChordLen>125.699</MidChordLen>
+<SweepDistance>50.66</SweepDistance>
+<Thickness>4.7752</Thickness>
+<ShapeCode>2</ShapeCode>
+<FinishCode>1</FinishCode>
+<TipShapeCode>1</TipShapeCode>
+<TabLength>139.7</TabLength>
+<TabDepth>30.0355</TabDepth>
+<TabOffset>0.</TabOffset>
+<SweepMode>0</SweepMode>
+<SweepAngle>0.</SweepAngle>
+<RockSimXNPerFin>0.</RockSimXNPerFin>
+<RockSimRadialXNPerFin>102.368</RockSimRadialXNPerFin>
+<RockSimCNaPerFin>7.97316</RockSimCNaPerFin>
+<TaperRatio>0.300057</TaperRatio>
+<CantAngle>0.</CantAngle>
+<CantPivotPoint>0.</CantPivotPoint>
+<AverageChord>99.55</AverageChord>
+<EffectiveTipChord>42.1429</EffectiveTipChord>
+<PointList>140.441,0|116.746,98.3047|116.562,98.927|116.315,99.5273|116.008,100.099|115.645,100.637|115.229,101.135|114.763,101.587|114.255,101.99|113.707,102.339|113.127,102.63|112.52,102.861|44.0539,125.376|43.0643,125.616|42.0493,125.694|41.0347,125.609|40.0468,125.363|39.1109,124.962|38.2511,124.417|37.4894,123.742|36.8455,122.953|35.9736,121.12|0.966033,0.966033|0,0|</PointList>
+<AutoCalcGridStepX>0,0,0,0,0,0,0</AutoCalcGridStepX>
+<GridStepCountX>10,10,10,10,10,10,10</GridStepCountX>
+<UseAbsoluteGridStepsX>0,0,0,0,0,0,0</UseAbsoluteGridStepsX>
+<GridStepSizeX>0.5,10,0.5,0.5,0.00018939,0.001,1</GridStepSizeX>
+<SnapToSizeX>0.25,5,0.1,0.1,0.00018939,0.001,1</SnapToSizeX>
+<AutoCalcGridStepY>0,0,0,0,0,0,0</AutoCalcGridStepY>
+<GridStepCountY>10,10,10,10,10,10,10</GridStepCountY>
+<UseAbsoluteGridStepsY>0,0,0,0,0,0,0</UseAbsoluteGridStepsY>
+<GridStepSizeY>0.5,10,0.5,0.5,0.00018939,0.001,1</GridStepSizeY>
+<SnapToSizeY>0.25,5,0.1,0.1,0.00018939,0.001,1</SnapToSizeY>
+<AttachedParts>
+</AttachedParts>
+</CustomFinSet>
+<Ring>
+<PartMfg>Binder Design</PartMfg>
+<KnownMass>0.</KnownMass>
+<Density>724.996</Density>
+<Material>Aircraft plywood (Birch)</Material>
+<Name>Ring</Name>
+<KnownCG>0.</KnownCG>
+<UseKnownCG>0</UseKnownCG>
+<Xb>0.</Xb>
+<CalcMass>14.6225</CalcMass>
+<CalcCG>1.5875</CalcCG>
+<WettedSurface>0.</WettedSurface>
+<PaintedSurface>0.</PaintedSurface>
+<GlueJointLength>0.</GlueJointLength>
+<DensityType>0</DensityType>
+<PartNo>CR-3.9-54mm</PartNo>
+<PartDesc>3.9-54mm centering ring</PartDesc>
+<RadialLoc>0.</RadialLoc>
+<RadialAngle>0.</RadialAngle>
+<Texture>file=()|position=(0,0,0)|origin=(0.5,0.5,0.5)|scale=(1,1,1)|repeat=(1)|interpolate=(0)|flipr(0)|flips(0)|flipt=(0)|preventseam=(1)</Texture>
+<Opacity>1.</Opacity>
+<Specular>0.</Specular>
+<SpecularPower>1.</SpecularPower>
+<Ambient>0.</Ambient>
+<Diffuse>1.</Diffuse>
+<AbientColor>rgb(0,0,250)</AbientColor>
+<DiffuseColor>rgb(0,0,250)</DiffuseColor>
+<SpecularColor>rgb(255,255,255)</SpecularColor>
+<UseSingleColor>1</UseSingleColor>
+<SerialNo>10</SerialNo>
+<DisplayFlags>0</DisplayFlags>
+<MetricsFlags>0</MetricsFlags>
+<LocationMode>2</LocationMode>
+<Color>rgb(0,0,250)</Color>
+<BarrowmanCNa>0.</BarrowmanCNa>
+<BarrowmanXN>0.</BarrowmanXN>
+<RockSimCNa>0.</RockSimCNa>
+<RockSimXN>0.</RockSimXN>
+<SimpleColorModel>1</SimpleColorModel>
+<ProduceTemplate>0</ProduceTemplate>
+<TemplateUnits>8</TemplateUnits>
+<Removed>0</Removed>
+<Station>1285.88</Station>
+<OD>99.06</OD>
+<ID>41.529</ID>
+<Len>3.175</Len>
+<FinishCode>3</FinishCode>
+<UsageCode>0</UsageCode>
+<AutoSize>1</AutoSize>
+<AttachedParts>
+</AttachedParts>
+</Ring>
+<Ring>
+<PartMfg>Binder Design</PartMfg>
+<KnownMass>0.</KnownMass>
+<Density>724.996</Density>
+<Material>Aircraft plywood (Birch)</Material>
+<Name>Ring</Name>
+<KnownCG>0.</KnownCG>
+<UseKnownCG>0</UseKnownCG>
+<Xb>149.225</Xb>
+<CalcMass>14.6225</CalcMass>
+<CalcCG>1.5875</CalcCG>
+<WettedSurface>0.</WettedSurface>
+<PaintedSurface>0.</PaintedSurface>
+<GlueJointLength>0.</GlueJointLength>
+<DensityType>0</DensityType>
+<PartNo>CR-3.9-54mm</PartNo>
+<PartDesc>3.9-54mm centering ring</PartDesc>
+<RadialLoc>0.</RadialLoc>
+<RadialAngle>0.</RadialAngle>
+<Texture>file=()|position=(0,0,0)|origin=(0.5,0.5,0.5)|scale=(1,1,1)|repeat=(1)|interpolate=(0)|flipr(0)|flips(0)|flipt=(0)|preventseam=(1)</Texture>
+<Opacity>1.</Opacity>
+<Specular>0.</Specular>
+<SpecularPower>1.</SpecularPower>
+<Ambient>0.</Ambient>
+<Diffuse>1.</Diffuse>
+<AbientColor>rgb(0,0,250)</AbientColor>
+<DiffuseColor>rgb(0,0,250)</DiffuseColor>
+<SpecularColor>rgb(255,255,255)</SpecularColor>
+<UseSingleColor>1</UseSingleColor>
+<SerialNo>11</SerialNo>
+<DisplayFlags>8</DisplayFlags>
+<MetricsFlags>0</MetricsFlags>
+<LocationMode>2</LocationMode>
+<Color>rgb(0,0,250)</Color>
+<BarrowmanCNa>0.</BarrowmanCNa>
+<BarrowmanXN>0.</BarrowmanXN>
+<RockSimCNa>0.</RockSimCNa>
+<RockSimXN>0.</RockSimXN>
+<SimpleColorModel>1</SimpleColorModel>
+<ProduceTemplate>0</ProduceTemplate>
+<TemplateUnits>8</TemplateUnits>
+<Removed>0</Removed>
+<Station>1136.65</Station>
+<OD>99.06</OD>
+<ID>41.529</ID>
+<Len>3.175</Len>
+<FinishCode>3</FinishCode>
+<UsageCode>0</UsageCode>
+<AutoSize>1</AutoSize>
+<AttachedParts>
+</AttachedParts>
+</Ring>
+<Parachute>
+<PartMfg>Binder Design</PartMfg>
+<KnownMass>87.8835</KnownMass>
+<Density>9.15194e-05</Density>
+<Material>1.9 oz. Ripstop Nylon (SkyAngle)</Material>
+<Name>Parachute</Name>
+<KnownCG>0.</KnownCG>
+<UseKnownCG>1</UseKnownCG>
+<Xb>307.975</Xb>
+<CalcMass>0.518368</CalcMass>
+<CalcCG>76.2</CalcCG>
+<WettedSurface>0.</WettedSurface>
+<PaintedSurface>0.</PaintedSurface>
+<GlueJointLength>0.</GlueJointLength>
+<DensityType>1</DensityType>
+<PartNo>PAR-36</PartNo>
+<PartDesc>36 in. nylon</PartDesc>
+<RadialLoc>0.</RadialLoc>
+<RadialAngle>0.</RadialAngle>
+<Texture>file=()|position=(0,0,0)|origin=(0.5,0.5,0.5)|scale=(1,1,1)|repeat=(1)|interpolate=(0)|flipr(0)|flips(0)|flipt=(0)|preventseam=(1)</Texture>
+<Opacity>1.</Opacity>
+<Specular>0.</Specular>
+<SpecularPower>1.</SpecularPower>
+<Ambient>0.</Ambient>
+<Diffuse>1.</Diffuse>
+<AbientColor>rgb(0,0,250)</AbientColor>
+<DiffuseColor>rgb(0,0,250)</DiffuseColor>
+<SpecularColor>rgb(255,255,255)</SpecularColor>
+<UseSingleColor>1</UseSingleColor>
+<SerialNo>30</SerialNo>
+<DisplayFlags>0</DisplayFlags>
+<MetricsFlags>0</MetricsFlags>
+<LocationMode>0</LocationMode>
+<Color>rgb(0,0,250)</Color>
+<BarrowmanCNa>0.</BarrowmanCNa>
+<BarrowmanXN>0.</BarrowmanXN>
+<RockSimCNa>0.</RockSimCNa>
+<RockSimXN>0.</RockSimXN>
+<SimpleColorModel>1</SimpleColorModel>
+<ProduceTemplate>0</ProduceTemplate>
+<TemplateUnits>8</TemplateUnits>
+<Removed>0</Removed>
+<Station>733.425</Station>
+<Dia>914.4</Dia>
+<SpillHoleDia>177.8</SpillHoleDia>
+<SideCount>8</SideCount>
+<ShroudLineCount>8</ShroudLineCount>
+<Thickness>3.175</Thickness>
+<ShroudLineLen>685.8</ShroudLineLen>
+<ChuteCount>1</ChuteCount>
+<ShroudLineMassPerMM>0.</ShroudLineMassPerMM>
+<ShroudLineMaterial>1/16 In. braided nylon</ShroudLineMaterial>
+<DragCoefficient>0.75</DragCoefficient>
+<AttachedParts>
+</AttachedParts>
+</Parachute>
+<Ring>
+<PartMfg>Binder Design</PartMfg>
+<KnownMass>0.</KnownMass>
+<Density>724.996</Density>
+<Material>Aircraft plywood (Birch)</Material>
+<Name>Ring</Name>
+<KnownCG>0.</KnownCG>
+<UseKnownCG>0</UseKnownCG>
+<Xb>-3.175</Xb>
+<CalcMass>14.6225</CalcMass>
+<CalcCG>1.5875</CalcCG>
+<WettedSurface>0.</WettedSurface>
+<PaintedSurface>0.</PaintedSurface>
+<GlueJointLength>0.</GlueJointLength>
+<DensityType>0</DensityType>
+<PartNo>CR-3.9-54mm</PartNo>
+<PartDesc>3.9-54mm centering ring</PartDesc>
+<RadialLoc>0.</RadialLoc>
+<RadialAngle>0.</RadialAngle>
+<Texture>file=()|position=(0,0,0)|origin=(0.5,0.5,0.5)|scale=(1,1,1)|repeat=(1)|interpolate=(0)|flipr(0)|flips(0)|flipt=(0)|preventseam=(1)</Texture>
+<Opacity>1.</Opacity>
+<Specular>0.</Specular>
+<SpecularPower>1.</SpecularPower>
+<Ambient>0.</Ambient>
+<Diffuse>1.</Diffuse>
+<AbientColor>rgb(0,0,250)</AbientColor>
+<DiffuseColor>rgb(0,0,250)</DiffuseColor>
+<SpecularColor>rgb(255,255,255)</SpecularColor>
+<UseSingleColor>1</UseSingleColor>
+<SerialNo>117</SerialNo>
+<DisplayFlags>8</DisplayFlags>
+<MetricsFlags>0</MetricsFlags>
+<LocationMode>2</LocationMode>
+<Color>rgb(0,0,250)</Color>
+<BarrowmanCNa>0.</BarrowmanCNa>
+<BarrowmanXN>0.</BarrowmanXN>
+<RockSimCNa>0.</RockSimCNa>
+<RockSimXN>0.</RockSimXN>
+<SimpleColorModel>1</SimpleColorModel>
+<ProduceTemplate>0</ProduceTemplate>
+<TemplateUnits>8</TemplateUnits>
+<Removed>0</Removed>
+<Station>1289.05</Station>
+<OD>99.06</OD>
+<ID>41.529</ID>
+<Len>3.175</Len>
+<FinishCode>0</FinishCode>
+<UsageCode>0</UsageCode>
+<AutoSize>1</AutoSize>
+<AttachedParts>
+</AttachedParts>
+</Ring>
+<BodyTube>
+<PartMfg>Binder Design</PartMfg>
+<KnownMass>0.</KnownMass>
+<Density>1121.29</Density>
+<Material>Paper</Material>
+<Name>Body tube</Name>
+<KnownCG>0.</KnownCG>
+<UseKnownCG>0</UseKnownCG>
+<Xb>0.</Xb>
+<CalcMass>40.1309</CalcMass>
+<CalcCG>101.6</CalcCG>
+<WettedSurface>0.</WettedSurface>
+<PaintedSurface>0.</PaintedSurface>
+<GlueJointLength>0.</GlueJointLength>
+<DensityType>0</DensityType>
+<PartNo>MMT-38</PartNo>
+<PartDesc>38mm motor tube</PartDesc>
+<RadialLoc>0.</RadialLoc>
+<RadialAngle>0.</RadialAngle>
+<Texture>file=()|position=(0,0,0)|origin=(0.5,0.5,0.5)|scale=(1,1,1)|repeat=(1)|interpolate=(0)|flipr(0)|flips(0)|flipt=(0)|preventseam=(1)</Texture>
+<Opacity>1.</Opacity>
+<Specular>0.</Specular>
+<SpecularPower>1.</SpecularPower>
+<Ambient>0.</Ambient>
+<Diffuse>1.</Diffuse>
+<AbientColor>blue</AbientColor>
+<DiffuseColor>rgb(153,102,51)</DiffuseColor>
+<SpecularColor>white</SpecularColor>
+<UseSingleColor>1</UseSingleColor>
+<SerialNo>120</SerialNo>
+<DisplayFlags>0</DisplayFlags>
+<MetricsFlags>0</MetricsFlags>
+<LocationMode>2</LocationMode>
+<Color>rgb(204,153,102)</Color>
+<BarrowmanCNa>0.</BarrowmanCNa>
+<BarrowmanXN>0.</BarrowmanXN>
+<RockSimCNa>0.</RockSimCNa>
+<RockSimXN>0.</RockSimXN>
+<SimpleColorModel>1</SimpleColorModel>
+<ProduceTemplate>0</ProduceTemplate>
+<TemplateUnits>8</TemplateUnits>
+<Removed>0</Removed>
+<Station>1085.85</Station>
+<OD>41.529</OD>
+<ID>38.735</ID>
+<Len>203.2</Len>
+<FinishCode>3</FinishCode>
+<IsMotorMount>1</IsMotorMount>
+<MotorDia>38.</MotorDia>
+<EngineOverhang>0.5</EngineOverhang>
+<FrontExtension>0.</FrontExtension>
+<RearExtension>0.</RearExtension>
+<IsInsideTube>1</IsInsideTube>
+<isStrapOnTube>0</isStrapOnTube>
+<AttachedParts>
+</AttachedParts>
+</BodyTube>
+</AttachedParts>
+</BodyTube>
+</Stage3Parts>
+<Stage2Parts>
+</Stage2Parts>
+<Stage1Parts>
+</Stage1Parts>
+<SideViewDims>
+</SideViewDims>
+<BaseViewDims>
+</BaseViewDims>
+<VertViewDims>
+</VertViewDims>
+</RocketDesign>
+</DesignInformation>
+<SimulationResultsList>
+<SimulationResults>
+<MaxAltitude>2536.62</MaxAltitude>
+<MaxVelocity>298.548</MaxVelocity>
+<MaxAcceleration>119.019</MaxAcceleration>
+<TimeToApogee>19.618</TimeToApogee>
+<OptimalDelay>11.903</OptimalDelay>
+<MultiDelayCount>0</MultiDelayCount>
+<VelocityAtDeplyment>0,0,0,0,0,0,0,0,0,0</VelocityAtDeplyment>
+<AltitudeAtDeployment>0,0,0,0,0,0,0,0,0,0</AltitudeAtDeployment>
+<DelayTime>0,0,0,0,0,0,0,0,0,0</DelayTime>
+<EjectTime>0,0,0,0,0,0,0,0,0,0</EjectTime>
+<FinalState>5</FinalState>
+<TimeToBurnout>7.715</TimeToBurnout>
+<TimeToLanding>0.</TimeToLanding>
+<TimeToEject>0.</TimeToEject>
+<MinLaunchGuideLen>1.01759</MinLaunchGuideLen>
+<MaxVertVelocity>298.548</MaxVertVelocity>
+<MaxHorzVelocity>0.</MaxHorzVelocity>
+<MaxVertAcceleration>119.019</MaxVertAcceleration>
+<MaxHorzAcceleration>0.</MaxHorzAcceleration>
+<MaxRange>0.</MaxRange>
+<LaunchStartVelocity>0.</LaunchStartVelocity>
+<LaunchStartRollRate>0.</LaunchStartRollRate>
+<LaunchGuideType>0</LaunchGuideType>
+<LaunchGuideLen>0.9144</LaunchGuideLen>
+<LaunchWindDirection>0</LaunchWindDirection>
+<LaunchWindSpeed>0.</LaunchWindSpeed>
+<LaunchDirection>0</LaunchDirection>
+<LaunchAngle>0.</LaunchAngle>
+<LaunchGuideAzimuth>0.</LaunchGuideAzimuth>
+<LaunchGuideElevation>0.</LaunchGuideElevation>
+<LaunchBarometer>759.813</LaunchBarometer>
+<LaunchLatitude>90.</LaunchLatitude>
+<LaunchLongitude>0.</LaunchLongitude>
+<LaunchHumidity>50.</LaunchHumidity>
+<LaunchTemperature>18.3333</LaunchTemperature>
+<LaunchAltitude>0.</LaunchAltitude>
+<LaunchLandingAltitude>0.</LaunchLandingAltitude>
+<CompStateMask>0</CompStateMask>
+<LaunchWindPreset>2</LaunchWindPreset>
+<LaunchWindLowSpeed>0.</LaunchWindLowSpeed>
+<LaunchWindHighSpeed>0.89408</LaunchWindHighSpeed>
+<LaunchWindTurbulencePreset>2</LaunchWindTurbulencePreset>
+<LaunchWindFrequency>0.01</LaunchWindFrequency>
+<LaunchWindDeltaFrequency>0.02</LaunchWindDeltaFrequency>
+<LaunchUseRandomConditions>0</LaunchUseRandomConditions>
+<LaunchCloudCoverPreset>5</LaunchCloudCoverPreset>
+<LaunchCCLow>0.</LaunchCCLow>
+<LaunchCCHigh>0.1</LaunchCCHigh>
+<LaunchThermalPosPreset>1</LaunchThermalPosPreset>
+<LaunchThermalPos>0.</LaunchThermalPos>
+<LaunchMultipleThermals>0</LaunchMultipleThermals>
+<LaunchMaxThermals>3</LaunchMaxThermals>
+<LaunchThermalDia>300.</LaunchThermalDia>
+<LaunchThermalHeight>2000.</LaunchThermalHeight>
+<LaunchThermalSpeedPreset>1</LaunchThermalSpeedPreset>
+<LaunchThermalSpeed>5.99999</LaunchThermalSpeed>
+<LaunchWindTableSize>0</LaunchWindTableSize>
+<LaunchWindAltTable>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</LaunchWindAltTable>
+<LaunchWindSpeedTable>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</LaunchWindSpeedTable>
+<LaunchWindDirectionTable>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</LaunchWindDirectionTable>
+<LaunchLossPreset>2</LaunchLossPreset>
+<LaunchLossPercent>0.99</LaunchLossPercent>
+<LaunchSiteDia>2000.</LaunchSiteDia>
+<LaunchDriftRangeToLoss>1500.</LaunchDriftRangeToLoss>
+<LaunchPayloadDamagePreset>2</LaunchPayloadDamagePreset>
+<LaunchPayloadDamagePercent>0.98</LaunchPayloadDamagePercent>
+<LaunchEngineMisfirePreset>1</LaunchEngineMisfirePreset>
+<LaunchEngineMisfirePercent>0.</LaunchEngineMisfirePercent>
+<LaunchVariableIgnitionDelay>0</LaunchVariableIgnitionDelay>
+<LaunchVariableIgnitionDelaySec>0.08</LaunchVariableIgnitionDelaySec>
+<LaunchRecDeviceFailurePreset>1</LaunchRecDeviceFailurePreset>
+<LaunchRecDeviceFailurePercent>0.</LaunchRecDeviceFailurePercent>
+<LaunchAriframeFailurePreset>1</LaunchAriframeFailurePreset>
+<LaunchAirframeFailurePercent>0.</LaunchAirframeFailurePercent>
+<LaunchTrackLossPreset>1</LaunchTrackLossPreset>
+<LaunchTeckLossPercent>0.</LaunchTeckLossPercent>
+<CNaMultiplier>1.</CNaMultiplier>
+<CdMultiplier>1.</CdMultiplier>
+<CPOffset>0.</CPOffset>
+<SaveSimAsText>0</SaveSimAsText>
+<OutputAtMaxRes>0</OutputAtMaxRes>
+<MaxSimTim>3600.</MaxSimTim>
+<MassUncertainty>0.</MassUncertainty>
+<MOIUncertainty>0.</MOIUncertainty>
+<CGUncertainty>0.</CGUncertainty>
+<CdUncertainty>0.</CdUncertainty>
+<CnaUncertainty>0.</CnaUncertainty>
+<CPUncertainty>0.</CPUncertainty>
+<FinCantUncertainty>0.</FinCantUncertainty>
+<TotImpulseUncertainty>0.</TotImpulseUncertainty>
+<PropellantUncertainty>0.</PropellantUncertainty>
+<ThrustAxisUncertainty>0.</ThrustAxisUncertainty>
+<WindDirectionUncertainty>0.</WindDirectionUncertainty>
+<WindVelocityUncertainty>0.</WindVelocityUncertainty>
+<LaunchGuideAzimuthUncertainty>0.</LaunchGuideAzimuthUncertainty>
+<LaunchGuideElevationUncertainty>0.</LaunchGuideElevationUncertainty>
+<IgnitionUncertainty>0.</IgnitionUncertainty>
+<CATOUncertainty>0.</CATOUncertainty>
+<DeploymentUncertainty>0.</DeploymentUncertainty>
+<RecoveryDeviceUncertainty>0.</RecoveryDeviceUncertainty>
+<SimulationName>[K185W-20  ] </SimulationName>
+<VelocityAtLaunchGuideEnd>12.7516</VelocityAtLaunchGuideEnd>
+<WindStartAltitude>0.</WindStartAltitude>
+<TimeToWindShear>0.</TimeToWindShear>
+<TimeToFreeFlight>0.215</TimeToFreeFlight>
+<TimeToMaxVelocity>3.707</TimeToMaxVelocity>
+<TimeToMaxAcceleration>1.056</TimeToMaxAcceleration>
+<Nsims>10</Nsims>
+<CalcResolution>1</CalcResolution>
+<SamplesPerSecond>1000.</SamplesPerSecond>
+<SimulationType>0</SimulationType>
+<LocationDataServerName>earth</LocationDataServerName>
+<LocationDataServerDisplayName>earth</LocationDataServerDisplayName>
+<ExecutionTime>9.19833</ExecutionTime>
+<RangeAtLanding>0.</RangeAtLanding>
+<DirectionAtLanding>0.</DirectionAtLanding>
+<VelocityAtLanding>0.</VelocityAtLanding>
+<XVelcoityAtLanding>0.</XVelcoityAtLanding>
+<YVelocityAtLanding>0.</YVelocityAtLanding>
+<ZVelocityAtLanding>0.</ZVelocityAtLanding>
+<StageSeparationTime>0,0,0,0,0</StageSeparationTime>
+<StageEjectTime>0,0,0,0,0</StageEjectTime>
+<TimeToDeployment>0,0,0,0,0</TimeToDeployment>
+<DeploymentType>32,32,32,32,32</DeploymentType>
+<SamplesPerSecondDescent>10.</SamplesPerSecondDescent>
+<CalculationFlags>3</CalculationFlags>
+<Mass0>0.</Mass0>
+<CG0>0.</CG0>
+<LaterialMOI0>0.</LaterialMOI0>
+<RadialMOI0>0.</RadialMOI0>
+<CP0>0.</CP0>
+<CNA0>0.</CNA0>
+<SM0>0.</SM0>
+<Booster1Staging>
+<SimulationEvent>
+<PartSerialNo>0</PartSerialNo>
+<Type>0</Type>
+<DeployAltitude>0.</DeployAltitude>
+<DeplyTime>0.</DeplyTime>
+<HasDeployed>0</HasDeployed>
+<DeployedAt_Altitude>0.</DeployedAt_Altitude>
+<DeployedAt_Velocity>0.</DeployedAt_Velocity>
+<DeployedAt_Range>0.</DeployedAt_Range>
+<DeployedAt_Time>0.</DeployedAt_Time>
+<DeviceID>-1</DeviceID>
+<TestType>0,0,0</TestType>
+<TestCondition>0,0,0</TestCondition>
+<TestValueAltitude>0,0,0</TestValueAltitude>
+<TestValueDegrees>0,0,0</TestValueDegrees>
+<TestValuePressure>0,0,0</TestValuePressure>
+<TestValueMach>0,0,0</TestValueMach>
+<TestValueTime>0,0,0</TestValueTime>
+<TestValueQ>0,0,0</TestValueQ>
+</SimulationEvent>
+</Booster1Staging>
+<Booster2Staging>
+<SimulationEvent>
+<PartSerialNo>0</PartSerialNo>
+<Type>0</Type>
+<DeployAltitude>0.</DeployAltitude>
+<DeplyTime>0.</DeplyTime>
+<HasDeployed>0</HasDeployed>
+<DeployedAt_Altitude>0.</DeployedAt_Altitude>
+<DeployedAt_Velocity>0.</DeployedAt_Velocity>
+<DeployedAt_Range>0.</DeployedAt_Range>
+<DeployedAt_Time>0.</DeployedAt_Time>
+<DeviceID>-1</DeviceID>
+<TestType>0,0,0</TestType>
+<TestCondition>0,0,0</TestCondition>
+<TestValueAltitude>0,0,0</TestValueAltitude>
+<TestValueDegrees>0,0,0</TestValueDegrees>
+<TestValuePressure>0,0,0</TestValuePressure>
+<TestValueMach>0,0,0</TestValueMach>
+<TestValueTime>0,0,0</TestValueTime>
+<TestValueQ>0,0,0</TestValueQ>
+</SimulationEvent>
+</Booster2Staging>
+<SimulationEvents>
+<SimulationEvent>
+<PartSerialNo>30</PartSerialNo>
+<Type>1</Type>
+<DeployAltitude>0.</DeployAltitude>
+<DeplyTime>0.</DeplyTime>
+<HasDeployed>0</HasDeployed>
+<DeployedAt_Altitude>0.</DeployedAt_Altitude>
+<DeployedAt_Velocity>0.</DeployedAt_Velocity>
+<DeployedAt_Range>0.</DeployedAt_Range>
+<DeployedAt_Time>0.</DeployedAt_Time>
+<DeviceID>-1</DeviceID>
+<TestType>28,28,28</TestType>
+<TestCondition>0,0,0</TestCondition>
+<TestValueAltitude>0,0,0</TestValueAltitude>
+<TestValueDegrees>0,0,0</TestValueDegrees>
+<TestValuePressure>0,0,0</TestValuePressure>
+<TestValueMach>0,0,0</TestValueMach>
+<TestValueTime>0,0,0</TestValueTime>
+<TestValueQ>0,0,0</TestValueQ>
+</SimulationEvent>
+</SimulationEvents>
+<Stage1Engines>
+</Stage1Engines>
+<Stage2Engines>
+</Stage2Engines>
+<Stage3Engines>
+<EngineSet>
+<EngineCount>1</EngineCount>
+<EngineCode>K185W</EngineCode>
+<IgnitionDelay>0.</IgnitionDelay>
+<EngineMfg>AT</EngineMfg>
+<EngineOverhang>12.7</EngineOverhang>
+<CasingCG>0.</CasingCG>
+<MountSerialNo>6</MountSerialNo>
+<EjectionDelay>20.</EjectionDelay>
+<RotateXaboutY>0.</RotateXaboutY>
+<RotateEngineAxisAboutX>0.</RotateEngineAxisAboutX>
+</EngineSet>
+</Stage3Engines>
+<DropItems>
+</DropItems>
+</SimulationResults>
+<SimulationResults>
+<MaxAltitude>2169.64</MaxAltitude>
+<MaxVelocity>384.95</MaxVelocity>
+<MaxAcceleration>288.826</MaxAcceleration>
+<TimeToApogee>16.788</TimeToApogee>
+<OptimalDelay>13.431</OptimalDelay>
+<MultiDelayCount>0</MultiDelayCount>
+<VelocityAtDeplyment>0,0,0,0,0,0,0,0,0,0</VelocityAtDeplyment>
+<AltitudeAtDeployment>0,0,0,0,0,0,0,0,0,0</AltitudeAtDeployment>
+<DelayTime>0,0,0,0,0,0,0,0,0,0</DelayTime>
+<EjectTime>0,0,0,0,0,0,0,0,0,0</EjectTime>
+<FinalState>5</FinalState>
+<TimeToBurnout>3.357</TimeToBurnout>
+<TimeToLanding>0.</TimeToLanding>
+<TimeToEject>0.</TimeToEject>
+<MinLaunchGuideLen>0.470335</MinLaunchGuideLen>
+<MaxVertVelocity>384.95</MaxVertVelocity>
+<MaxHorzVelocity>0.</MaxHorzVelocity>
+<MaxVertAcceleration>288.826</MaxVertAcceleration>
+<MaxHorzAcceleration>0.</MaxHorzAcceleration>
+<MaxRange>0.</MaxRange>
+<LaunchStartVelocity>0.</LaunchStartVelocity>
+<LaunchStartRollRate>0.</LaunchStartRollRate>
+<LaunchGuideType>0</LaunchGuideType>
+<LaunchGuideLen>0.9144</LaunchGuideLen>
+<LaunchWindDirection>0</LaunchWindDirection>
+<LaunchWindSpeed>0.</LaunchWindSpeed>
+<LaunchDirection>0</LaunchDirection>
+<LaunchAngle>0.</LaunchAngle>
+<LaunchGuideAzimuth>0.</LaunchGuideAzimuth>
+<LaunchGuideElevation>0.</LaunchGuideElevation>
+<LaunchBarometer>759.813</LaunchBarometer>
+<LaunchLatitude>90.</LaunchLatitude>
+<LaunchLongitude>0.</LaunchLongitude>
+<LaunchHumidity>50.</LaunchHumidity>
+<LaunchTemperature>18.3333</LaunchTemperature>
+<LaunchAltitude>0.</LaunchAltitude>
+<LaunchLandingAltitude>0.</LaunchLandingAltitude>
+<CompStateMask>0</CompStateMask>
+<LaunchWindPreset>2</LaunchWindPreset>
+<LaunchWindLowSpeed>0.</LaunchWindLowSpeed>
+<LaunchWindHighSpeed>0.89408</LaunchWindHighSpeed>
+<LaunchWindTurbulencePreset>2</LaunchWindTurbulencePreset>
+<LaunchWindFrequency>0.01</LaunchWindFrequency>
+<LaunchWindDeltaFrequency>0.02</LaunchWindDeltaFrequency>
+<LaunchUseRandomConditions>0</LaunchUseRandomConditions>
+<LaunchCloudCoverPreset>5</LaunchCloudCoverPreset>
+<LaunchCCLow>0.</LaunchCCLow>
+<LaunchCCHigh>0.1</LaunchCCHigh>
+<LaunchThermalPosPreset>1</LaunchThermalPosPreset>
+<LaunchThermalPos>0.</LaunchThermalPos>
+<LaunchMultipleThermals>0</LaunchMultipleThermals>
+<LaunchMaxThermals>3</LaunchMaxThermals>
+<LaunchThermalDia>300.</LaunchThermalDia>
+<LaunchThermalHeight>2000.</LaunchThermalHeight>
+<LaunchThermalSpeedPreset>1</LaunchThermalSpeedPreset>
+<LaunchThermalSpeed>5.99999</LaunchThermalSpeed>
+<LaunchWindTableSize>0</LaunchWindTableSize>
+<LaunchWindAltTable>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</LaunchWindAltTable>
+<LaunchWindSpeedTable>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</LaunchWindSpeedTable>
+<LaunchWindDirectionTable>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</LaunchWindDirectionTable>
+<LaunchLossPreset>2</LaunchLossPreset>
+<LaunchLossPercent>0.99</LaunchLossPercent>
+<LaunchSiteDia>2000.</LaunchSiteDia>
+<LaunchDriftRangeToLoss>1500.</LaunchDriftRangeToLoss>
+<LaunchPayloadDamagePreset>2</LaunchPayloadDamagePreset>
+<LaunchPayloadDamagePercent>0.98</LaunchPayloadDamagePercent>
+<LaunchEngineMisfirePreset>1</LaunchEngineMisfirePreset>
+<LaunchEngineMisfirePercent>0.</LaunchEngineMisfirePercent>
+<LaunchVariableIgnitionDelay>0</LaunchVariableIgnitionDelay>
+<LaunchVariableIgnitionDelaySec>0.08</LaunchVariableIgnitionDelaySec>
+<LaunchRecDeviceFailurePreset>1</LaunchRecDeviceFailurePreset>
+<LaunchRecDeviceFailurePercent>0.</LaunchRecDeviceFailurePercent>
+<LaunchAriframeFailurePreset>1</LaunchAriframeFailurePreset>
+<LaunchAirframeFailurePercent>0.</LaunchAirframeFailurePercent>
+<LaunchTrackLossPreset>1</LaunchTrackLossPreset>
+<LaunchTeckLossPercent>0.</LaunchTeckLossPercent>
+<CNaMultiplier>1.</CNaMultiplier>
+<CdMultiplier>1.</CdMultiplier>
+<CPOffset>0.</CPOffset>
+<SaveSimAsText>0</SaveSimAsText>
+<OutputAtMaxRes>0</OutputAtMaxRes>
+<MaxSimTim>3600.</MaxSimTim>
+<MassUncertainty>0.</MassUncertainty>
+<MOIUncertainty>0.</MOIUncertainty>
+<CGUncertainty>0.</CGUncertainty>
+<CdUncertainty>0.</CdUncertainty>
+<CnaUncertainty>0.</CnaUncertainty>
+<CPUncertainty>0.</CPUncertainty>
+<FinCantUncertainty>0.</FinCantUncertainty>
+<TotImpulseUncertainty>0.</TotImpulseUncertainty>
+<PropellantUncertainty>0.</PropellantUncertainty>
+<ThrustAxisUncertainty>0.</ThrustAxisUncertainty>
+<WindDirectionUncertainty>0.</WindDirectionUncertainty>
+<WindVelocityUncertainty>0.</WindVelocityUncertainty>
+<LaunchGuideAzimuthUncertainty>0.</LaunchGuideAzimuthUncertainty>
+<LaunchGuideElevationUncertainty>0.</LaunchGuideElevationUncertainty>
+<IgnitionUncertainty>0.</IgnitionUncertainty>
+<CATOUncertainty>0.</CATOUncertainty>
+<DeploymentUncertainty>0.</DeploymentUncertainty>
+<RecoveryDeviceUncertainty>0.</RecoveryDeviceUncertainty>
+<SimulationName>[K550W-25  ] </SimulationName>
+<VelocityAtLaunchGuideEnd>19.4696</VelocityAtLaunchGuideEnd>
+<WindStartAltitude>0.</WindStartAltitude>
+<TimeToWindShear>0.</TimeToWindShear>
+<TimeToFreeFlight>0.124</TimeToFreeFlight>
+<TimeToMaxVelocity>1.92</TimeToMaxVelocity>
+<TimeToMaxAcceleration>0.854</TimeToMaxAcceleration>
+<Nsims>10</Nsims>
+<CalcResolution>1</CalcResolution>
+<SamplesPerSecond>1000.</SamplesPerSecond>
+<SimulationType>0</SimulationType>
+<LocationDataServerName>earth</LocationDataServerName>
+<LocationDataServerDisplayName>earth</LocationDataServerDisplayName>
+<ExecutionTime>6.57411</ExecutionTime>
+<RangeAtLanding>0.</RangeAtLanding>
+<DirectionAtLanding>0.</DirectionAtLanding>
+<VelocityAtLanding>0.</VelocityAtLanding>
+<XVelcoityAtLanding>0.</XVelcoityAtLanding>
+<YVelocityAtLanding>0.</YVelocityAtLanding>
+<ZVelocityAtLanding>0.</ZVelocityAtLanding>
+<StageSeparationTime>0,0,0,0,0</StageSeparationTime>
+<StageEjectTime>0,0,0,0,0</StageEjectTime>
+<TimeToDeployment>0,0,0,0,0</TimeToDeployment>
+<DeploymentType>32,32,32,32,32</DeploymentType>
+<SamplesPerSecondDescent>10.</SamplesPerSecondDescent>
+<CalculationFlags>3</CalculationFlags>
+<Mass0>0.</Mass0>
+<CG0>0.</CG0>
+<LaterialMOI0>0.</LaterialMOI0>
+<RadialMOI0>0.</RadialMOI0>
+<CP0>0.</CP0>
+<CNA0>0.</CNA0>
+<SM0>0.</SM0>
+<Booster1Staging>
+<SimulationEvent>
+<PartSerialNo>0</PartSerialNo>
+<Type>0</Type>
+<DeployAltitude>0.</DeployAltitude>
+<DeplyTime>0.</DeplyTime>
+<HasDeployed>0</HasDeployed>
+<DeployedAt_Altitude>0.</DeployedAt_Altitude>
+<DeployedAt_Velocity>0.</DeployedAt_Velocity>
+<DeployedAt_Range>0.</DeployedAt_Range>
+<DeployedAt_Time>0.</DeployedAt_Time>
+<DeviceID>-1</DeviceID>
+<TestType>0,0,0</TestType>
+<TestCondition>0,0,0</TestCondition>
+<TestValueAltitude>0,0,0</TestValueAltitude>
+<TestValueDegrees>0,0,0</TestValueDegrees>
+<TestValuePressure>0,0,0</TestValuePressure>
+<TestValueMach>0,0,0</TestValueMach>
+<TestValueTime>0,0,0</TestValueTime>
+<TestValueQ>0,0,0</TestValueQ>
+</SimulationEvent>
+</Booster1Staging>
+<Booster2Staging>
+<SimulationEvent>
+<PartSerialNo>0</PartSerialNo>
+<Type>0</Type>
+<DeployAltitude>0.</DeployAltitude>
+<DeplyTime>0.</DeplyTime>
+<HasDeployed>0</HasDeployed>
+<DeployedAt_Altitude>0.</DeployedAt_Altitude>
+<DeployedAt_Velocity>0.</DeployedAt_Velocity>
+<DeployedAt_Range>0.</DeployedAt_Range>
+<DeployedAt_Time>0.</DeployedAt_Time>
+<DeviceID>-1</DeviceID>
+<TestType>0,0,0</TestType>
+<TestCondition>0,0,0</TestCondition>
+<TestValueAltitude>0,0,0</TestValueAltitude>
+<TestValueDegrees>0,0,0</TestValueDegrees>
+<TestValuePressure>0,0,0</TestValuePressure>
+<TestValueMach>0,0,0</TestValueMach>
+<TestValueTime>0,0,0</TestValueTime>
+<TestValueQ>0,0,0</TestValueQ>
+</SimulationEvent>
+</Booster2Staging>
+<SimulationEvents>
+<SimulationEvent>
+<PartSerialNo>30</PartSerialNo>
+<Type>1</Type>
+<DeployAltitude>0.</DeployAltitude>
+<DeplyTime>0.</DeplyTime>
+<HasDeployed>0</HasDeployed>
+<DeployedAt_Altitude>0.</DeployedAt_Altitude>
+<DeployedAt_Velocity>0.</DeployedAt_Velocity>
+<DeployedAt_Range>0.</DeployedAt_Range>
+<DeployedAt_Time>0.</DeployedAt_Time>
+<DeviceID>-1</DeviceID>
+<TestType>28,28,28</TestType>
+<TestCondition>0,0,0</TestCondition>
+<TestValueAltitude>0,0,0</TestValueAltitude>
+<TestValueDegrees>0,0,0</TestValueDegrees>
+<TestValuePressure>0,0,0</TestValuePressure>
+<TestValueMach>0,0,0</TestValueMach>
+<TestValueTime>0,0,0</TestValueTime>
+<TestValueQ>0,0,0</TestValueQ>
+</SimulationEvent>
+</SimulationEvents>
+<Stage1Engines>
+</Stage1Engines>
+<Stage2Engines>
+</Stage2Engines>
+<Stage3Engines>
+<EngineSet>
+<EngineCount>1</EngineCount>
+<EngineCode>K550W</EngineCode>
+<IgnitionDelay>0.</IgnitionDelay>
+<EngineMfg>AT</EngineMfg>
+<EngineOverhang>12.7</EngineOverhang>
+<CasingCG>0.</CasingCG>
+<MountSerialNo>6</MountSerialNo>
+<EjectionDelay>25.</EjectionDelay>
+<RotateXaboutY>0.</RotateXaboutY>
+<RotateEngineAxisAboutX>0.</RotateEngineAxisAboutX>
+</EngineSet>
+</Stage3Engines>
+<DropItems>
+</DropItems>
+</SimulationResults>
+<SimulationResults>
+<MaxAltitude>1991.53</MaxAltitude>
+<MaxVelocity>458.818</MaxVelocity>
+<MaxAcceleration>479.474</MaxAcceleration>
+<TimeToApogee>15.778</TimeToApogee>
+<OptimalDelay>13.963</OptimalDelay>
+<MultiDelayCount>0</MultiDelayCount>
+<VelocityAtDeplyment>0,0,0,0,0,0,0,0,0,0</VelocityAtDeplyment>
+<AltitudeAtDeployment>0,0,0,0,0,0,0,0,0,0</AltitudeAtDeployment>
+<DelayTime>0,0,0,0,0,0,0,0,0,0</DelayTime>
+<EjectTime>0,0,0,0,0,0,0,0,0,0</EjectTime>
+<FinalState>5</FinalState>
+<TimeToBurnout>1.815</TimeToBurnout>
+<TimeToLanding>0.</TimeToLanding>
+<TimeToEject>0.</TimeToEject>
+<MinLaunchGuideLen>0.229562</MinLaunchGuideLen>
+<MaxVertVelocity>458.818</MaxVertVelocity>
+<MaxHorzVelocity>0.</MaxHorzVelocity>
+<MaxVertAcceleration>479.474</MaxVertAcceleration>
+<MaxHorzAcceleration>0.</MaxHorzAcceleration>
+<MaxRange>0.</MaxRange>
+<LaunchStartVelocity>0.</LaunchStartVelocity>
+<LaunchStartRollRate>0.</LaunchStartRollRate>
+<LaunchGuideType>0</LaunchGuideType>
+<LaunchGuideLen>0.9144</LaunchGuideLen>
+<LaunchWindDirection>0</LaunchWindDirection>
+<LaunchWindSpeed>0.</LaunchWindSpeed>
+<LaunchDirection>0</LaunchDirection>
+<LaunchAngle>0.</LaunchAngle>
+<LaunchGuideAzimuth>0.</LaunchGuideAzimuth>
+<LaunchGuideElevation>0.</LaunchGuideElevation>
+<LaunchBarometer>759.813</LaunchBarometer>
+<LaunchLatitude>90.</LaunchLatitude>
+<LaunchLongitude>0.</LaunchLongitude>
+<LaunchHumidity>50.</LaunchHumidity>
+<LaunchTemperature>18.3333</LaunchTemperature>
+<LaunchAltitude>0.</LaunchAltitude>
+<LaunchLandingAltitude>0.</LaunchLandingAltitude>
+<CompStateMask>0</CompStateMask>
+<LaunchWindPreset>2</LaunchWindPreset>
+<LaunchWindLowSpeed>0.</LaunchWindLowSpeed>
+<LaunchWindHighSpeed>0.89408</LaunchWindHighSpeed>
+<LaunchWindTurbulencePreset>2</LaunchWindTurbulencePreset>
+<LaunchWindFrequency>0.01</LaunchWindFrequency>
+<LaunchWindDeltaFrequency>0.02</LaunchWindDeltaFrequency>
+<LaunchUseRandomConditions>0</LaunchUseRandomConditions>
+<LaunchCloudCoverPreset>5</LaunchCloudCoverPreset>
+<LaunchCCLow>0.</LaunchCCLow>
+<LaunchCCHigh>0.1</LaunchCCHigh>
+<LaunchThermalPosPreset>1</LaunchThermalPosPreset>
+<LaunchThermalPos>0.</LaunchThermalPos>
+<LaunchMultipleThermals>0</LaunchMultipleThermals>
+<LaunchMaxThermals>3</LaunchMaxThermals>
+<LaunchThermalDia>300.</LaunchThermalDia>
+<LaunchThermalHeight>2000.</LaunchThermalHeight>
+<LaunchThermalSpeedPreset>1</LaunchThermalSpeedPreset>
+<LaunchThermalSpeed>5.99999</LaunchThermalSpeed>
+<LaunchWindTableSize>0</LaunchWindTableSize>
+<LaunchWindAltTable>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</LaunchWindAltTable>
+<LaunchWindSpeedTable>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</LaunchWindSpeedTable>
+<LaunchWindDirectionTable>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</LaunchWindDirectionTable>
+<LaunchLossPreset>2</LaunchLossPreset>
+<LaunchLossPercent>0.99</LaunchLossPercent>
+<LaunchSiteDia>2000.</LaunchSiteDia>
+<LaunchDriftRangeToLoss>1500.</LaunchDriftRangeToLoss>
+<LaunchPayloadDamagePreset>2</LaunchPayloadDamagePreset>
+<LaunchPayloadDamagePercent>0.98</LaunchPayloadDamagePercent>
+<LaunchEngineMisfirePreset>1</LaunchEngineMisfirePreset>
+<LaunchEngineMisfirePercent>0.</LaunchEngineMisfirePercent>
+<LaunchVariableIgnitionDelay>0</LaunchVariableIgnitionDelay>
+<LaunchVariableIgnitionDelaySec>0.08</LaunchVariableIgnitionDelaySec>
+<LaunchRecDeviceFailurePreset>1</LaunchRecDeviceFailurePreset>
+<LaunchRecDeviceFailurePercent>0.</LaunchRecDeviceFailurePercent>
+<LaunchAriframeFailurePreset>1</LaunchAriframeFailurePreset>
+<LaunchAirframeFailurePercent>0.</LaunchAirframeFailurePercent>
+<LaunchTrackLossPreset>1</LaunchTrackLossPreset>
+<LaunchTeckLossPercent>0.</LaunchTeckLossPercent>
+<CNaMultiplier>1.</CNaMultiplier>
+<CdMultiplier>1.</CdMultiplier>
+<CPOffset>0.</CPOffset>
+<SaveSimAsText>0</SaveSimAsText>
+<OutputAtMaxRes>0</OutputAtMaxRes>
+<MaxSimTim>3600.</MaxSimTim>
+<MassUncertainty>0.</MassUncertainty>
+<MOIUncertainty>0.</MOIUncertainty>
+<CGUncertainty>0.</CGUncertainty>
+<CdUncertainty>0.</CdUncertainty>
+<CnaUncertainty>0.</CnaUncertainty>
+<CPUncertainty>0.</CPUncertainty>
+<FinCantUncertainty>0.</FinCantUncertainty>
+<TotImpulseUncertainty>0.</TotImpulseUncertainty>
+<PropellantUncertainty>0.</PropellantUncertainty>
+<ThrustAxisUncertainty>0.</ThrustAxisUncertainty>
+<WindDirectionUncertainty>0.</WindDirectionUncertainty>
+<WindVelocityUncertainty>0.</WindVelocityUncertainty>
+<LaunchGuideAzimuthUncertainty>0.</LaunchGuideAzimuthUncertainty>
+<LaunchGuideElevationUncertainty>0.</LaunchGuideElevationUncertainty>
+<IgnitionUncertainty>0.</IgnitionUncertainty>
+<CATOUncertainty>0.</CATOUncertainty>
+<DeploymentUncertainty>0.</DeploymentUncertainty>
+<RecoveryDeviceUncertainty>0.</RecoveryDeviceUncertainty>
+<SimulationName>[K1100T-20  ] </SimulationName>
+<VelocityAtLaunchGuideEnd>29.0134</VelocityAtLaunchGuideEnd>
+<WindStartAltitude>0.</WindStartAltitude>
+<TimeToWindShear>0.</TimeToWindShear>
+<TimeToFreeFlight>0.078</TimeToFreeFlight>
+<TimeToMaxVelocity>1.436</TimeToMaxVelocity>
+<TimeToMaxAcceleration>0.105</TimeToMaxAcceleration>
+<Nsims>10</Nsims>
+<CalcResolution>1</CalcResolution>
+<SamplesPerSecond>1000.</SamplesPerSecond>
+<SimulationType>0</SimulationType>
+<LocationDataServerName>earth</LocationDataServerName>
+<LocationDataServerDisplayName>earth</LocationDataServerDisplayName>
+<ExecutionTime>7.3504</ExecutionTime>
+<RangeAtLanding>0.</RangeAtLanding>
+<DirectionAtLanding>0.</DirectionAtLanding>
+<VelocityAtLanding>0.</VelocityAtLanding>
+<XVelcoityAtLanding>0.</XVelcoityAtLanding>
+<YVelocityAtLanding>0.</YVelocityAtLanding>
+<ZVelocityAtLanding>0.</ZVelocityAtLanding>
+<StageSeparationTime>0,0,0,0,0</StageSeparationTime>
+<StageEjectTime>0,0,0,0,0</StageEjectTime>
+<TimeToDeployment>0,0,0,0,0</TimeToDeployment>
+<DeploymentType>32,32,32,32,32</DeploymentType>
+<SamplesPerSecondDescent>10.</SamplesPerSecondDescent>
+<CalculationFlags>3</CalculationFlags>
+<Mass0>0.</Mass0>
+<CG0>0.</CG0>
+<LaterialMOI0>0.</LaterialMOI0>
+<RadialMOI0>0.</RadialMOI0>
+<CP0>0.</CP0>
+<CNA0>0.</CNA0>
+<SM0>0.</SM0>
+<Booster1Staging>
+<SimulationEvent>
+<PartSerialNo>0</PartSerialNo>
+<Type>0</Type>
+<DeployAltitude>0.</DeployAltitude>
+<DeplyTime>0.</DeplyTime>
+<HasDeployed>0</HasDeployed>
+<DeployedAt_Altitude>0.</DeployedAt_Altitude>
+<DeployedAt_Velocity>0.</DeployedAt_Velocity>
+<DeployedAt_Range>0.</DeployedAt_Range>
+<DeployedAt_Time>0.</DeployedAt_Time>
+<DeviceID>-1</DeviceID>
+<TestType>0,0,0</TestType>
+<TestCondition>0,0,0</TestCondition>
+<TestValueAltitude>0,0,0</TestValueAltitude>
+<TestValueDegrees>0,0,0</TestValueDegrees>
+<TestValuePressure>0,0,0</TestValuePressure>
+<TestValueMach>0,0,0</TestValueMach>
+<TestValueTime>0,0,0</TestValueTime>
+<TestValueQ>0,0,0</TestValueQ>
+</SimulationEvent>
+</Booster1Staging>
+<Booster2Staging>
+<SimulationEvent>
+<PartSerialNo>0</PartSerialNo>
+<Type>0</Type>
+<DeployAltitude>0.</DeployAltitude>
+<DeplyTime>0.</DeplyTime>
+<HasDeployed>0</HasDeployed>
+<DeployedAt_Altitude>0.</DeployedAt_Altitude>
+<DeployedAt_Velocity>0.</DeployedAt_Velocity>
+<DeployedAt_Range>0.</DeployedAt_Range>
+<DeployedAt_Time>0.</DeployedAt_Time>
+<DeviceID>-1</DeviceID>
+<TestType>0,0,0</TestType>
+<TestCondition>0,0,0</TestCondition>
+<TestValueAltitude>0,0,0</TestValueAltitude>
+<TestValueDegrees>0,0,0</TestValueDegrees>
+<TestValuePressure>0,0,0</TestValuePressure>
+<TestValueMach>0,0,0</TestValueMach>
+<TestValueTime>0,0,0</TestValueTime>
+<TestValueQ>0,0,0</TestValueQ>
+</SimulationEvent>
+</Booster2Staging>
+<SimulationEvents>
+<SimulationEvent>
+<PartSerialNo>30</PartSerialNo>
+<Type>1</Type>
+<DeployAltitude>0.</DeployAltitude>
+<DeplyTime>0.</DeplyTime>
+<HasDeployed>0</HasDeployed>
+<DeployedAt_Altitude>0.</DeployedAt_Altitude>
+<DeployedAt_Velocity>0.</DeployedAt_Velocity>
+<DeployedAt_Range>0.</DeployedAt_Range>
+<DeployedAt_Time>0.</DeployedAt_Time>
+<DeviceID>-1</DeviceID>
+<TestType>28,28,28</TestType>
+<TestCondition>0,0,0</TestCondition>
+<TestValueAltitude>0,0,0</TestValueAltitude>
+<TestValueDegrees>0,0,0</TestValueDegrees>
+<TestValuePressure>0,0,0</TestValuePressure>
+<TestValueMach>0,0,0</TestValueMach>
+<TestValueTime>0,0,0</TestValueTime>
+<TestValueQ>0,0,0</TestValueQ>
+</SimulationEvent>
+</SimulationEvents>
+<Stage1Engines>
+</Stage1Engines>
+<Stage2Engines>
+</Stage2Engines>
+<Stage3Engines>
+<EngineSet>
+<EngineCount>1</EngineCount>
+<EngineCode>K1100T</EngineCode>
+<IgnitionDelay>0.</IgnitionDelay>
+<EngineMfg>AT</EngineMfg>
+<EngineOverhang>12.7</EngineOverhang>
+<CasingCG>0.</CasingCG>
+<MountSerialNo>6</MountSerialNo>
+<EjectionDelay>20.</EjectionDelay>
+<RotateXaboutY>0.</RotateXaboutY>
+<RotateEngineAxisAboutX>0.</RotateEngineAxisAboutX>
+</EngineSet>
+</Stage3Engines>
+<DropItems>
+</DropItems>
+</SimulationResults>
+</SimulationResultsList>
+</RockSimDocument>
